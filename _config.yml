@@ -17,20 +17,18 @@ url                      : "https://ryanbakker-ps.github.io"
 baseurl                  : ""
 repository               : "ryanbakker-ps/ryanbakker-ps.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
+  name             : "Ryan Bakker"
+  pronouns         :
+  bio              : "Professor of Political Science"
+  location         : "Dubai, UAE"
+  employer         : "University of Sharjah"
+  uri              :
+  email            : "rbakker@sharjah.ac.ae"
+  
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
