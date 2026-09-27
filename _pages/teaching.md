@@ -36,7 +36,7 @@ Advanced Quantitative Data Analysis
 
 
 
-I have also taught workshops on Bayesian methods and quantitative methodology at institutions including Sciences Po, the University of North Carolina, the Univeristy of California-Berkeley, Florida State University, the University of Cincinnati, and the University of California, Berkeley.
+I have also taught workshops on Bayesian methods and quantitative methodology at institutions including Sciences Po, the University of North Carolina, Florida State University, the University of Cincinnati, and the University of California, Berkeley.
 
 ## Political Science
 
