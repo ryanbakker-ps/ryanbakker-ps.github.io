@@ -13,7 +13,7 @@ My current teaching includes courses in comparative and international politics, 
 
 - The European Union in International Relations
 - World Perspectives
-- American Federal Government
+- American National Government
 - Introduction to Political Philosophy
 - Political Methodologies
 
