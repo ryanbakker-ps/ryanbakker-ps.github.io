@@ -1,64 +1,42 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[**Download Full CV (PDF)**](/files/Ryan_Bakker_CV.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Academic Appointments
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**University of Sharjah**  
+Professor of Political Science, 2025–present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**University of Essex**  
+Reader in Comparative Politics, 2019–2026  
+Director, Essex Summer School in Social Science Data Analysis, 2021–2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**University of Georgia**  
+Associate Professor of Political Science, 2014–2019  
+Assistant Professor of Political Science, 2008–2014  
+Director, Center for the Study of Global Issues, 2016–2019
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**University of Oxford**  
+Postdoctoral Fellow in Research Methodology, 2006–2008
+
+## Education
+
+**University of North Carolina at Chapel Hill**  
+Ph.D., Political Science, 2007
+
+**University of Florida**  
+M.A., Political Science, 2004  
+B.A., Political Science, 1993
+
+## Research Interests
+
+Political parties and party systems · European politics · Political representation · Political methodology · Expert surveys and measurement · Bayesian statistics
+
+For additional information, see my **[Research](/research/)**, **[Publications](/publications/)**, and **[Teaching](/teaching/)** pages.
