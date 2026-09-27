@@ -13,13 +13,13 @@ Armstrong, David A., Ryan Bakker, Royce Carroll, Christopher Hare, Keith T. Pool
 
 ## Journal Articles
 
-**Bakker, Ryan**, Nico de la Cerda, Ruth Dassonneville, Jelle Koedam, Seth Jolly, and Jonathan Polk. 2026. "A Global Scale of Economic Left-Right Party Positions: Cross-National and Cross-Expert Perceptions of Party Placements." *The Journal of Politics* 88(4).
+Nico de la Cerda,**Bakker, Ryan**, Seth Jolly, Jonathan Polk, Ruth Dassonneville, Jelle Koedam, Patrick Leslie, and Jill Sheppard. 2026. "A Global Scale of Economic Left-Right Party Positions: Cross-National and Cross-Expert Perceptions of Party Placements." *The Journal of Politics* 88(4).
 
-**Bakker, Ryan**, Jan Rovny, Jonathan Polk, Liesbet Hooghe, Seth Jolly, Gary Marks, Marco Steenbergen, and Milada Vachudova. 2025. "The 2024 Chapel Hill Expert Survey on Political Party Positioning in Europe: Twenty-Five Years of Party Positional Data." *Electoral Studies* 97: 102981.
+Jan Rovny, Jonathan Polk, **Bakker, Ryan**, Liesbet Hooghe, Seth Jolly, Gary Marks, Marco Steenbergen, and Milada Vachudova. 2025. "The 2024 Chapel Hill Expert Survey on Political Party Positioning in Europe: Twenty-Five Years of Party Positional Data." *Electoral Studies* 97: 102981.
 
-**Bakker, Ryan** and Roi Zur. 2025. "The Israeli Parties' Positions in Comparative Perspective." *Party Politics* 31(2): 323–334.
+Roi Zur and **Bakker, Ryan**. 2025. "The Israeli Parties' Positions in Comparative Perspective." *Party Politics* 31(2): 323–334.
 
-**Bakker, Ryan**, Liesbet Hooghe, Gary Marks, Seth Jolly, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2024. "The Russian Threat and the Consolidation of the West: How Populism and EU-Skepticism Shape Party Support for Ukraine." *European Union Politics* 25(3): 459–482.
+Liesbet Hooghe, Gary Marks,**Bakker, Ryan**, Seth Jolly, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2024. "The Russian Threat and the Consolidation of the West: How Populism and EU-Skepticism Shape Party Support for Ukraine." *European Union Politics* 25(3): 459–482.
 
 Taylor, Zach, Jack Lucas, David Armstrong, and **Ryan Bakker**. 2024. "The Development of the Urban-Rural Cleavage in Anglo-American Democracies." *Comparative Political Studies* 57(8): 1339–1374.
 
@@ -27,29 +27,29 @@ Martinez-Gallardo, C., Nico de la Cerda, Jonathan Hartlyn, Liesbet Hooghe, Gary 
 
 **Bakker, Ryan**, Seth Jolly, and Jonathan Polk. 2022. "Analyzing the Cross-National Comparability of Party Positions on the Socio-Cultural and EU Dimensions in Europe." *Political Science Research and Methods* 10(2): 408–418.
 
-**Bakker, Ryan**, Seth Jolly, Liesbet Hooghe, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2022. "Chapel Hill Expert Survey Trend File, 1999–2019." *Electoral Studies* 75.
+ Seth Jolly, **Bakker, Ryan**, Liesbet Hooghe, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2022. "Chapel Hill Expert Survey Trend File, 1999–2019." *Electoral Studies* 75.
 
-Rovny, Jan, Liesbet Hooghe, Gary Marks, Jonathan Polk, **Ryan Bakker**, Marco Steenbergen, and Milada Vachudova. 2022. "Contesting Covid: The Ideological Bases of Partisan Responses to the Covid-19 Pandemic." *European Journal of Political Research* 61(4): 1155–1164.
+Rovny, Jan, **Ryan Bakker**, Liesbet Hooghe, Gary Marks, Jonathan Polk, Marco Steenbergen, and Milada Vachudova. 2022. "Contesting Covid: The Ideological Bases of Partisan Responses to the Covid-19 Pandemic." *European Journal of Political Research* 61(4): 1155–1164.
 
 **Bakker, Ryan**, Seth Jolly, and Jonathan Polk. 2021. "Multidimensional Incongruence, Political Disaffection, and Support for Anti-Establishment Parties." *Journal of European Public Policy* 27(2): 292–309.
 
 Clay, K. Chad, Anne-Marie Brook, Daniel W. Hill, **Ryan Bakker**, and Amanda Murdie. 2020. "Using Practitioner Surveys to Measure Human Rights: The Human Rights Measurement Initiative's Civil and Political Rights Metrics." *Journal of Peace Research* 57(6): 715–727.
 
-**Bakker, Ryan**, Cory Struthers, and Chris Hare. 2020. "Bridging the Pond: Measuring Policy Positions in the United States and Europe." *Political Science Research and Methods* 8(4): 677–691.
+*Cory Struthers, Chris Hare, and **Bakker, Ryan**. 2020. "Bridging the Pond: Measuring Policy Positions in the United States and Europe." *Political Science Research and Methods* 8(4): 677–691.
 
 **Bakker, Ryan**, Seth Jolly, and Jonathan Polk. 2018. "Multidimensional Incongruence and Vote Switching in Europe." *Public Choice* 176(1–2): 267–296.
 
-**Bakker, Ryan**, Florian Justwan, and Jeffrey Berejikian. 2018. "Measuring Social Trust and Trusting the Measure." *Social Science Journal* 55(2): 149–159.
+Florian Justwan, **Bakker, Ryan** and Jeffrey Berejikian. 2018. "Measuring Social Trust and Trusting the Measure." *Social Science Journal* 55(2): 149–159.
 
-Polk, Jonathan, Jan Rovny, Liesbet Hooghe, Seth Jolly, Gary Marks, and **Ryan Bakker**. 2017. "Explaining the Salience of Anti-Elitism and Reducing Political Corruption for Political Parties in Europe with the 2014 Chapel Hill Expert Survey Data." *Research & Politics* 4(1): 1–9.
+Polk, Jonathan, Jan Rovny, **Ryan Bakker**, Liesbet Hooghe, Seth Jolly, Jelle Koedam, Filip Kostelka, Gary Marks, Gijs Schumacher, Marco Steenbergen, Milida Vachudova, and Marko Zilovic. 2017. "Explaining the Salience of Anti-Elitism and Reducing Political Corruption for Political Parties in Europe with the 2014 Chapel Hill Expert Survey Data." *Research & Politics* 4(1): 1–9.
 
 **Bakker, Ryan**, Daniel W. Hill, and Will H. Moore. 2016. "How Much Terror? Dissidents, Governments, Institutions and the Cross-National Study of Terror Attacks." *Journal of Peace Research* 53(5): 711–726.
 
-**Bakker, Ryan**, Chris Hare, David Armstrong, Royce Carroll, and Keith Poole. 2015. "Using Bayesian Aldrich-McKelvey Scaling to Study Citizens' Ideological Preferences and Perceptions." *American Journal of Political Science* 59(3).
+Chris Hare, David Armstrong, **Bakker, Ryan**, Royce Carroll, and Keith Poole. 2015. "Using Bayesian Aldrich-McKelvey Scaling to Study Citizens' Ideological Preferences and Perceptions." *American Journal of Political Science* 59(3).
 
-Bakker, Ryan, Catherine de Vries, Erica Edwards, Liesbet Hooghe, Seth Jolly, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2015. "Measuring Party Positions in Europe: The Chapel Hill Expert Survey Trend File, 1999–2010." *Party Politics* 21(1): 143–152.
+**Bakker, Ryan**, Catherine de Vries, Erica Edwards, Liesbet Hooghe, Seth Jolly, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2015. "Measuring Party Positions in Europe: The Chapel Hill Expert Survey Trend File, 1999–2010." *Party Politics* 21(1): 143–152.
 
-**Bakker, Ryan**, Seth Jolly, Jonathan Polk, Jan Rovny, and Marco Steenbergen. 2014. "Anchoring the Experts: Using Vignettes to Compare Party Ideology across Countries." *Research & Politics* 1(3).
+**Bakker, Ryan**, Erica Edwards, Seth Jolly, Jonathan Polk, Jan Rovny, and Marco Steenbergen. 2014. "Anchoring the Experts: Using Vignettes to Compare Party Ideology across Countries." *Research & Politics* 1(3).
 
 **Bakker, Ryan**, Seth Jolly, Jonathan Polk, and Keith Poole. 2014. "The European Common Space: Using Anchoring Vignettes to Scale Party Positions across Europe." *Journal of Politics* 76(4): 1089–1101.
 
@@ -63,7 +63,7 @@ Crepaz, Markus, Jonathan Polk, **Ryan Bakker**, and Shane Singh. 2014. "Trust Ma
 
 **Bakker, Ryan** and Joe Weinberg. 2012. "Betting the Farm on Higher Food Prices: A Consumer Based Approach to Agriculture Protection." *Social Science Journal* 49(2): 191–201.
 
-**Bakker, Ryan**, Liesbet Hooghe, Gary Marks, Catherine De Vries, Erica Edwards, Marco Steenbergen, and Milada Vachudova. 2010. "Reliability and Validity of the 2002 and 2006 Chapel Hill Expert Surveys on Party Positioning." *European Journal of Political Research* 49(4): 687–703.
+Liesbet Hooghe, **Bakker, Ryan**, Anna Brigevich, Catherine De Vries, Erica Edwards, Gary Marks, Marco Steenbergen, and Milada Vachudova. 2010. "Reliability and Validity of the 2002 and 2006 Chapel Hill Expert Surveys on Party Positioning." *European Journal of Political Research* 49(4): 687–703.
 
 **Bakker, Ryan**. 2009. "Re-Measuring Left-Right: A Comparison of SEM and Bayesian Approaches for Extracting Latent Dimensions from Political Texts." *Electoral Studies* 28(3): 413–421.
 
