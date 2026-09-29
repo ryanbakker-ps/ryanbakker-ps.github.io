@@ -322,3 +322,24 @@
     }
   }
 }
+
+/* Custom mobile author profile */
+@media screen and (max-width: 1023px) {
+  .author__avatar {
+    width: 90px !important;
+  }
+
+  .author__avatar img {
+    width: 90px !important;
+    max-width: 90px !important;
+    height: 90px;
+    object-fit: cover;
+    padding: 0;
+    border: 1px solid var(--global-border-color);
+  }
+
+  .author__content {
+    padding-left: 12px;
+    padding-right: 10px;
+  }
+}
