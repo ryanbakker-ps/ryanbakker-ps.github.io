@@ -13,7 +13,7 @@ Much of my research focuses on political parties, ideology, and representation, 
 
 I also work extensively on political measurement and quantitative methodology. Since 2008, I have served as Principal Investigator of the **Chapel Hill Expert Survey (CHES)**, which I use both as a tool for studying political competition and as a laboratory for thinking about how we measure parties, ideology, and representation across countries.
 
-## Research
+## Research Areas
 
 ### Democracy, Representation, and Political Choice
 
