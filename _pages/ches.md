@@ -49,9 +49,6 @@ CHES data, questionnaires, documentation, and additional information about the p
 
 CHES is used not only by academic researchers, but also by journalists, policy organizations, analysts, and others seeking systematic information about political parties, democratic competition, and political change.
 
-**[Visit the Chapel Hill Expert Survey website](https://www.chesdata.eu/)**
-
-For publications using CHES and related research, see my **[Publications](/publications/)** and **[Research](/research/)** pages.
 
 **[Visit the Chapel Hill Expert Survey website](https://www.chesdata.eu/)**
 
