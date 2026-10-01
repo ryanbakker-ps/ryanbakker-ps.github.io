@@ -37,3 +37,50 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ==========================================================================
+   Custom site styling
+   ========================================================================== */
+
+/* Page titles */
+.page__title {
+  letter-spacing: -0.02em;
+  margin-bottom: 0.9em;
+}
+
+/* Main section headings */
+.page__content h2 {
+  margin-top: 2.2em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.35em;
+
+  font-weight: 700;
+  letter-spacing: -0.01em;
+
+  border-bottom: 2px solid var(--global-base-color);
+}
+
+/* Subsection headings */
+.page__content h3 {
+  margin-top: 1.7em;
+  margin-bottom: 0.6em;
+
+  color: var(--global-base-color);
+  font-weight: 650;
+}
+
+/* Make longer pages breathe a little more */
+.page__content p {
+  line-height: 1.65;
+  margin-bottom: 1.15em;
+}
+
+/* Slightly cleaner lists */
+.page__content ul,
+.page__content ol {
+  margin-bottom: 1.3em;
+}
+
+.page__content li {
+  margin-bottom: 0.35em;
+}
