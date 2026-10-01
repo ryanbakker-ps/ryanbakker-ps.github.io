@@ -37,6 +37,6 @@ B.A., Political Science, 1993
 
 ## Research Interests
 
-Political parties and party systems · European politics · Political representation · Political methodology · Expert surveys and measurement · Bayesian statistics
+Political parties and party systems · Democracy and democratic reslience · European politics · Political representation · Political methodology · Expert surveys and measurement · Bayesian statistics
 
 For additional information, see my **[Research](/research/)**, **[Publications](/publications/)**, and **[Teaching](/teaching/)** pages.
