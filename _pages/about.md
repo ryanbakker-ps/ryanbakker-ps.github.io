@@ -7,32 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Political Science at the University of Sharjah. My research lies at the intersection of comparative politics and political methodology, with a particular focus on political parties, ideology, representation, and European politics.
+I am a Professor of Political Science at the University of Sharjah. My interests are rooted in understanding how democracy works when political representation is imperfect.
 
-I have served as Principal Investigator of the **Chapel Hill Expert Survey (CHES)** since 2008. Much of my research uses expert surveys, public opinion data, and quantitative methods to study how political parties position themselves, how voters perceive and choose among those parties, and how political competition varies across countries.
+Much of my research focuses on political parties, ideology, and representation, particularly in Europe. Increasingly, however, my work asks broader comparative questions about **democratic resilience, party-system development, and the relationship between citizens and political elites** across different political contexts.
 
-My current research examines voter-party congruence and vote switching, party-system structuration, issue salience, political representation, and the design and measurement properties of expert surveys.
+I also work extensively on political measurement and quantitative methodology. Since 2008, I have served as Principal Investigator of the **Chapel Hill Expert Survey (CHES)**, which I use both as a tool for studying political competition and as a laboratory for thinking about how we measure parties, ideology, and representation across countries.
 
-Before joining the University of Sharjah, I was Reader in Comparative Politics at the University of Essex and Associate Professor of Political Science at the University of Georgia. I received my Ph.D. in Political Science from the University of North Carolina at Chapel Hill.
+## Research
 
-## Research Areas
+### Democracy, Representation, and Political Choice
 
-- Political Parties and Party Systems
-- European Politics and European Integration
-- Political Representation and Voting
-- Political Methodology
-- Expert Surveys and Measurement
-- Bayesian Statistics
+A central theme of my work is political representation: how well parties represent citizens, what happens when that relationship breaks down, and how voters respond when the available political choices do not match their preferences.
+
+My current work examines voter-party incongruence, electoral switching, political dissatisfaction, support for anti-establishment parties, and the broader consequences of weak representation for democratic politics.
+
+### Parties, Polarization, and Political Competition
+
+I study how party systems structure political conflict and how those structures vary across countries and over time. This includes work on multidimensional political competition, polarization, political cleavages, issue salience, and the development of party systems beyond established Western democracies.
+
+Current projects extend this work to the Global South and to questions of urban democracy and democratic resilience in Africa.
+
+### Measurement, Methods, and CHES
+
+A second major strand of my research concerns measurement. I am particularly interested in how we measure party positions, ideology, perceptions, and political competition across different national contexts.
+
+Much of this work draws on the **[Chapel Hill Expert Survey](/ches/)**. My current methodological projects examine the design of expert surveys themselves: how many experts are needed to produce reliable estimates, which survey items provide genuinely distinct information, and how survey instruments can be simplified without sacrificing measurement quality.
 
 ## Current Research
 
-**Political representation and voter choice**  
-How do voters respond when the parties available to them fail to represent their preferences? My current work examines voter-party incongruence, electoral switching, and the choices voters make among mainstream and non-mainstream parties.
+Some of my current projects examine:
 
-**Measuring political competition**  
-Several ongoing projects examine how we measure party positions and political competition across countries, including work on party-system structuration, issue salience, and cross-national comparability.
+- voter-party congruence and electoral switching
+- democratic representation and resilience
+- party-system structuration in the Global South
+- urban democracy in Africa
+- multidimensional polarization and political competition
+- issue salience and party strategy
+- expert-survey design and political measurement
 
-**Expert surveys and political measurement**  
-Building on more than two decades of work with the Chapel Hill Expert Survey, I am studying how expert surveys can be designed more efficiently, how many experts are needed to obtain reliable estimates, and how survey instruments can be simplified without sacrificing information.
-
-For more information about my work, see **[Research](/research/)**, **[CHES](/ches/)**, and **[Publications](/publications/)**.
+For more information, see **[Research](/research/)**, **[CHES](/ches/)**, **[Publications](/publications/)**, or my **[CV](/cv/)**.
