@@ -84,3 +84,59 @@
 .page__content li {
   margin-bottom: 0.35em;
 }
+
+/* ==========================================================================
+   Custom masthead / navigation
+   ========================================================================== */
+
+.masthead {
+  background-color: var(--global-bg-color);
+  border-bottom: 1px solid var(--global-border-color);
+  box-shadow: none;
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.85em;
+  padding-bottom: 0.85em;
+}
+
+/* Keep nav background consistent with page */
+.greedy-nav {
+  background: transparent;
+}
+
+/* Site name */
+.greedy-nav .site-title {
+  color: var(--global-text-color);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Navigation links */
+.greedy-nav .visible-links a {
+  color: var(--global-text-color);
+  font-weight: 600;
+  transition: color 0.2s ease-in-out;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: var(--global-base-color);
+}
+
+/* Underline/accent on hover */
+.greedy-nav .visible-links a:before {
+  background: var(--global-base-color);
+  height: 2px;
+}
+
+/* Slightly tighter header on phones */
+@media screen and (max-width: 767px) {
+  .masthead__inner-wrap {
+    padding-top: 0.65em;
+    padding-bottom: 0.65em;
+  }
+
+  .greedy-nav .site-title {
+    font-size: 1rem;
+  }
+}
