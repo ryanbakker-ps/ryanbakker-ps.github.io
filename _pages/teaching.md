@@ -34,15 +34,23 @@ Introduction to Bayesian Statistics for the Social Sciences
 Introduction to Quantitative Data Analysis  
 Advanced Quantitative Data Analysis
 
+**University of Georgia**
+Introduction to Quantitative Data Analysis
+Intermediate Quantitative Data Analysis: OLS
+Advanced Quantitative Data Analysis:  MLE and latent variable
+Bayesian Data Analysis for the Social Sciences
+
+**University of Oxford**
+Introductory data analysis and mathematics
 
 
 I have also taught workshops on Bayesian methods and quantitative methodology at institutions including Sciences Po, the University of North Carolina, Florida State University, the University of Cincinnati, and the University of California, Berkeley.
 
-## Political Science
+## Substantive Political Science
 
 My substantive teaching has included courses in American politics, comparative politics, European politics, international relations, and political philosophy.
 
-At the University of Georgia, I taught Introduction to American Government as well as introductory, intermediate, and advanced quantitative methodology. At the University of Essex, I taught American Political Institutions alongside quantitative methods courses. Earlier in my career at the University of Oxford, I taught introductory data analysis and mathematics for the social sciences.
+At the University of Georgia, I taught Introduction to American Government  At the University of Essex, I taught American Political Institutions.
 
 ## Teaching Across Levels
 
