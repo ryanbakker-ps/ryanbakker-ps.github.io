@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Political Science at the University of Sharjah. My interests are rooted in understanding how democracy works when political representation is imperfect.
+I am a Professor of International Relations/Political Science at the University of Sharjah. My interests are rooted in understanding how democracy works when political representation is imperfect.
 
 Much of my research focuses on political parties, ideology, and representation, particularly in Europe. Increasingly, however, my work asks broader comparative questions about **democratic resilience, party-system development, and the relationship between citizens and political elites** across different political contexts.
 
