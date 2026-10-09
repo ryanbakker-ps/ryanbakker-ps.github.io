@@ -7,6 +7,14 @@ author_profile: true
 
 A selection of my publications is listed below, organized by research area. For a complete publication record, see my **[CV](/cv/)** or [Google Scholar profile](https://scholar.google.com/citations?user=CKUa8eUAAAAJ&hl=en).
 
+## Books and Manuscripts
+
+Armstrong, David A., **Ryan Bakker**, Royce Carroll, Christopher Hare, Keith T. Poole, and Howard Rosenthal. 2020. *Analyzing Spatial Models of Choice and Judgment with R*, 2nd ed. Chapman and Hall/CRC Press.
+
+**Bakker, Ryan**, Seth Jolly, and Jonathan Polk. *Consequences of Incongruence: Party Competition and Political Representation in Europe*. Under contract with Cambridge Elements.
+
+**Bakker, Ryan**, Daniel W. Hill, Ryan M. Welch, and Will H. Moore. *Dissidents and Deadly Decisions: A Contentious Politics Account of Domestic Terror*. Book manuscript in progress.
+
 ## Democracy, Representation, and Political Behavior
 
 **Bakker, Ryan**, Seth Jolly, and Jonathan Polk. 2021. "Multidimensional Incongruence, Political Disaffection, and Support for Anti-Establishment Parties." *Journal of European Public Policy* 27(2): 292–309.
