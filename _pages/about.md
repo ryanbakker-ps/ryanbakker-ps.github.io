@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of International Relations/Political Science at the University of Sharjah. My interests are rooted in understanding how democracy works when political representation is imperfect.
+I am a Professor of International Relations/Political Science at the University of Sharjah. My research spans comparative politics and international relations and is rooted in understanding how political institutions, parties, and political actors behave under conditions of imperfect representation and political conflict.
 
-Much of my research focuses on political parties, ideology, and representation, particularly in Europe. Increasingly, however, my work asks broader comparative questions about **democratic resilience, party-system development, and the relationship between citizens and political elites** across different political contexts.
+Much of my research focuses on political parties, ideology, and representation, particularly in Europe. Increasingly, however, my work asks broader comparative questions about **democratic resilience, party-system development, political conflict, and the relationship between citizens and political elites** across different political contexts.
 
 I also work extensively on political measurement and quantitative methodology. Since 2008, I have served as Principal Investigator of the **Chapel Hill Expert Survey (CHES)**, which I use both as a tool for studying political competition and as a laboratory for thinking about how we measure parties, ideology, and representation across countries.
 
@@ -27,11 +27,18 @@ I study how party systems structure political conflict and how those structures 
 
 Current projects extend this work to the Global South and to questions of urban democracy and democratic resilience in Africa.
 
+
+### International Relations, Conflict, and Human Rights
+
+My research in international relations focuses on political violence, human rights, and the connections between domestic and international conflict. This includes work on terrorism, government repression, civil and political rights, and the effects of international threats on domestic politics.
+
+I am currently completing **Dissidents and Deadly Decisions: A Contentious Politics Account of Domestic Terror**, a book manuscript with Daniel Hill, Ryan Welch, and the late Will Moore.
+
 ### Measurement, Methods, and CHES
 
-A second major strand of my research concerns measurement. I am particularly interested in how we measure party positions, ideology, perceptions, and political competition across different national contexts.
+Another major strand of my research concerns measurement. I am particularly interested in how we measure party positions, ideology, perceptions, human rights, and political competition across different national contexts.
 
-Much of this work draws on the **[Chapel Hill Expert Survey](/ches/)**. My current methodological projects examine the design of expert surveys themselves: how many experts are needed to produce reliable estimates, which survey items provide genuinely distinct information, and how survey instruments can be simplified without sacrificing measurement quality.
+Much of this work draws on the [**Chapel Hill Expert Survey**](/ches/). My current methodological projects examine the design of expert surveys themselves: how many experts are needed to produce reliable estimates, which survey items provide genuinely distinct information, and how survey instruments can be simplified without sacrificing measurement quality.
 
 ## Current Research
 
@@ -39,6 +46,7 @@ Some of my current projects examine:
 
 - voter-party congruence and electoral switching
 - democratic representation and resilience
+- domestic terrorism, contentious politics, and political violence
 - party-system structuration in the Global South
 - urban democracy in Africa
 - multidimensional polarization and political competition
