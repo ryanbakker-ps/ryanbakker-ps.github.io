@@ -25,6 +25,16 @@ Recent projects extend these questions beyond Western Europe, including research
 
 Much of this research draws on data from the **[Chapel Hill Expert Survey](/ches/)**, for which I have served as Principal Investigator since 2008.
 
+## International Relations, Conflict, and Human Rights
+
+A longstanding strand of my research examines political violence, human rights, and the interaction between domestic and international politics.
+
+With Daniel Hill, Ryan Welch, and the late Will Moore, I am completing a book manuscript, **Dissidents and Deadly Decisions: A Contentious Politics Account of Domestic Terror**. The project develops a "web of contention" approach to political violence, treating terror as one tactical choice available to dissident groups alongside nonviolent protest and other forms of violence.
+
+Rather than explaining terror primarily through broad structural conditions, we focus on strategic interaction: how dissident groups respond to the behavior of governments and other challengers, and how political institutions and international conflict shape those choices. The project combines global cross-national analysis with group-level analysis of political violence in India.
+
+I have also worked on the measurement of human rights, as a founding member of the Human Rights Measurement Initiative (HRMI), including research on practitioner-based measures of civil and political rights. Other work examines social unrest, international threats, and the ways in which external conflict reshapes domestic political competition.
+
 ## Urban Democracy in Africa
 
 An emerging part of my research examines democratic resilience from the perspective of everyday urban life.
@@ -59,6 +69,7 @@ My current collaborative projects include:
 
 - **Voter-party congruence and electoral switching**: examining where disaffected voters go when they leave their previous party and whether switching improves political representation.
 - **Party-system structuration in the Global South**: studying whether political competition is organized into coherent ideological dimensions outside established Western democracies.
+- **Dissidents and Deadly Decisions: A Contentious Politics Account of Domestic Terror**. Book manuscript in progress.
 - **Urban democracy and democratic resilience in Africa**: examining how local institutions, social relationships, and urban practices sustain democratic life under conditions of inequality and political strain.
 - **Multidimensional polarization**: studying how polarization develops across multiple ideological dimensions and how those dimensions interact within party systems.
 - **The salience of issue salience**: comparing alternative approaches to measuring which political issues parties emphasize.
