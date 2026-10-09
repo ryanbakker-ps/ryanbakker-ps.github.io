@@ -29,6 +29,18 @@ Zur, Roi and **Ryan Bakker**. 2025. "The Israeli Parties' Positions in Comparati
 
 **Bakker, Ryan**, Seth Jolly, and Jonathan Polk. 2012. "Complexity in the European Party Space: Exploring Dimensionality with Experts." *European Union Politics* 13(2): 219–245.
 
+## International Relations, Conflict, and Human Rights
+
+Hooghe, Liesbet, Gary Marks, **Ryan Bakker**, Seth Jolly, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2024. "The Russian Threat and the Consolidation of the West: How Populism and EU-Skepticism Shape Party Support for Ukraine." *European Union Politics* 25(3): 459–482.
+
+Clay, K. Chad, Anne-Marie Brook, Daniel W. Hill, **Ryan Bakker**, and Amanda Murdie. 2020. "Using Practitioner Surveys to Measure Human Rights: The Human Rights Measurement Initiative's Civil and Political Rights Metrics." *Journal of Peace Research* 57(6): 715–727.
+
+**Bakker, Ryan**, Daniel W. Hill, and Will H. Moore. 2016. "How Much Terror? Dissidents, Governments, Institutions and the Cross-National Study of Terror Attacks." *Journal of Peace Research* 53(5): 711–726.
+
+**Bakker, Ryan** and Joe Weinberg. 2014. "Let Them Eat Cake: Food Prices, Domestic Policy, and Social Unrest." *Journal of Conflict Management and Peace Science* 31(3): 1–18.
+
+**Bakker, Ryan** and Joe Weinberg. 2012. "Betting the Farm on Higher Food Prices: A Consumer Based Approach to Agriculture Protection." *Social Science Journal* 49(2): 191–201.
+
 ## Political Measurement and Expert Surveys
 
 Rovny, Jan, Jonathan Polk, **Ryan Bakker**, Liesbet Hooghe, Seth Jolly, Gary Marks, Marco Steenbergen, and Milada Vachudova. 2025. "The 2024 Chapel Hill Expert Survey on Political Party Positioning in Europe: Twenty-Five Years of Party Positional Data." *Electoral Studies* 97: 102981.
